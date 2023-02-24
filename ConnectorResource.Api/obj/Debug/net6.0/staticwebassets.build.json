@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rwdTx4W7PRoKHEdhhzTU1/oAdltSS90busSbfBDUE5Y=",
+  "Source": "ConnectorResource.Api",
+  "BasePath": "_content/ConnectorResource.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
